@@ -1,3 +1,2 @@
-# voc_delq_modeling  
-voc : voice of customer   
-연체상담내역 텍스트를 임베딩하여 연체해결확률을 예측하는 모형  
+NLP-based delinquency resolution prediction using VOC text from collection calls.
+Built for early risk detection and operational prioritization in retail credit management.

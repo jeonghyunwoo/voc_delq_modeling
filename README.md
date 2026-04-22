@@ -1,5 +1,9 @@
 # NLP-based Delinquency Resolution Prediction using VOC Text
 
+연체상담 VOC 텍스트를 활용해 연체해결확률을 예측한 NLP 기반 리스크 분석 프로젝트입니다.
+상담기록에 담긴 비정형 신호를 구조화해 조기 위험 탐지와 운영 우선순위 판단에 활용할 수 있도록 설계했습니다.
+실무 리스크 관리에서 텍스트 데이터를 정형 지표와 연결한 분석 사례입니다.
+
 Collection-call VOC text often contains early signals that are not fully captured by structured delinquency metrics alone.
 
 This project uses counseling text from delinquent accounts to build an NLP-based prediction model for **delinquency resolution probability**, with the goal of supporting **earlier risk detection** and **operational prioritization** in retail credit management.
